@@ -1,7 +1,7 @@
 #!/bin/bash
 #sleep 69
 echo "schau erst ob du screen instalierst hast wenn nd mache es"
-printf "Welche version willst du? Wähle mit 1 bis 4 aus\n 1. 1.19.2\n 2. 1.18.2 \n 3. 1.16.5\n 4. 1.8.9\n" 
+printf "Welche version willst du? Wähle mit 1 bis 4 aus\n 1. 1.19.3\n 2. 1.18.2 \n 3. 1.16.5\n 4. 1.8.9\n" 
 read version
 echo "Wähle aus ob du den RAM fuer den Server in GB oder MB angeben willst also schreibe entweder GB oder MB"
 read ram_unit
