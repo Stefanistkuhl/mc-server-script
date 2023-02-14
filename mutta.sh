@@ -26,7 +26,7 @@ auswahl () {
     fi
 
     if [ "$1" -eq 1 ]; then
-        wget https://piston-data.mojang.com/v1/objects/f69c284232d7c7580bd89a5a4931c3581eae1378/server.jar
+        wget https://piston-data.mojang.com/v1/objects/c9df48efed58511cdd0213c56b9013a7b5c9ac1f/server.jar
     fi
     if [ "$1" -eq 2 ]; then
         wget https://launcher.mojang.com/v1/objects/c8f83c5655308435b3dcf03c06d9fe8740a77469/server.jar
